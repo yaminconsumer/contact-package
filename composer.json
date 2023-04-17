@@ -1,0 +1,17 @@
+{
+    "name": "saiyedyamin/contact",
+    "description": "Contact Form",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Saiyedyamin\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yamin"
+        }
+    ],
+    "require": {}
+}
